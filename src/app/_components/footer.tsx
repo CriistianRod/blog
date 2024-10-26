@@ -1,6 +1,5 @@
 import Container from "@/app/_components/container";
 import SocialMedia from "./social-media"
-import { BeakerIcon } from "@heroicons/react/24/solid";
 import { EXAMPLE_PATH } from "@/lib/constants";
 
 export function Footer() {
