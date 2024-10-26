@@ -52,13 +52,13 @@ export function generateMetadata({ params }: Params): Promise<Metadata> {
 
   const title = `${post.title} | Cristian Rodríguez`;
 
-  return {
+  return Promise.resolve({
     title,
     openGraph: {
       title,
       images: [post.ogImage.url],
     },
-  };
+  });
 }
 
 export async function generateStaticParams() {
