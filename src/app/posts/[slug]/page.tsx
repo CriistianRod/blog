@@ -40,9 +40,6 @@ export default async function Post({ params }: Params) {
 type Params = {
   params: {
     slug: string;
-    then: () => {};
-    catch: () => {};
-    finally: () => {};
   };
 };
 
