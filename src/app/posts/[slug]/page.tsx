@@ -43,7 +43,7 @@ type Params = {
   };
 };
 
-export function generateMetadata({ params }: Params): Metadata {
+export function generateMetadata({ params }: Params): Promise<Metadata> {
   const post = getPostBySlug(params.slug);
 
   if (!post) {
