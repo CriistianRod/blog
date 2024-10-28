@@ -4,7 +4,7 @@ import LinkedInIcon from './social-media-icons/linkedin-icon';
 
 export function SocialMedia() {
     return (
-        <div className="flex flex-col lg:flex-row items-center space-y-4 justify-around w-full">
+        <div className="flex flex-row items-center justify-around w-full">
             <a href="https://www.linkedin.com/in/cristian-rodr%C3%ADguez-713bb3173/" target="_blank" rel="noopener noreferrer">
                 <LinkedInIcon />
             </a>
