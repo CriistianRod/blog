@@ -7,7 +7,7 @@ export function Intro() {
         Cristian Rodríguez
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        Escribo, luego existo
+        Escribo, programo y busco
       </h4>
       {/* <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
         A statically generated blog example using{" "}
