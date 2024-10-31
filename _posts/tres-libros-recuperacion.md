@@ -1,5 +1,5 @@
 ---
-title: "Tres libros de recuperación emocional"
+title: "Tres libros sobre recuperación emocional"
 excerpt: "El Corazón de Las Enseñanzas de Buda, de Thich Nhat Hanh, me enseñó que eso se podía: me acostaba en la cama recién tendida con las manos entrelazadas bajo la nuca a disfrutar de los cerros en mi ventana. Y no hacía nada. Simplemente me acostaba a sentir y descansar. "
 coverImage: "/assets/blog/hello-world/cover.jpg"
 date: "2024-10-25T05:35:07.322Z"
