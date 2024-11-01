@@ -1,6 +1,6 @@
 export function InstagramIcon() {
     return (
-        <span className="[&>svg]:h-7 [&>svg]:w-7">
+        <span className="[&>svg]:h-7 [&>svg]:w-7 hover:dark:text-slate-400">
             <svg
                 xmlns="http://www.w3.org/2000/svg"
                 fill="currentColor"

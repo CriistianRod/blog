@@ -4,9 +4,9 @@ import { EXAMPLE_PATH } from "@/lib/constants";
 
 export function Footer() {
   return (
-    <footer className="bg-neutral-50 border-t border-neutral-200 dark:bg-slate-800">
+    <footer className="bg-neutral-50 dark:bg-slate-900 dark:text-white">
       <Container>
-        <div className="py-10 flex flex-col lg:flex-row items-center w-full">
+        <div className="py-10 flex flex-col lg:flex-row items-center justify-center">
           <SocialMedia />
         </div>
       </Container>
