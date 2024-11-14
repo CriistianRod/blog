@@ -1,5 +1,5 @@
 ---
-title: "Tres libros sobre recuperación emocional"
+title: "Tres libros sobre recuperación"
 excerpt: "Pero solo en el momento de mirar al techo y los cerros, únicamente existiendo y explorando la quietud del presente, me permití realmente descansar. Había olvidado hacerlo hacía mucho tiempo."
 coverImage: "/assets/blog/hello-world/cover.jpg"
 date: "2024-10-25T05:35:07.322Z"
@@ -10,17 +10,17 @@ ogImage:
   url: "/assets/blog/hello-world/cover.jpg"
 ---
 
-El año pasado, dos o tres meses después de haberme mudado, le pregunté a ChatGPT por libros para sanar algunas heridas emocionales y me recomendó el libro de Pete Walker, *Complex PTSD: From Surviving to Thriving*.
+El año pasado, dos o tres meses después de haberme mudado, encontré el libro de [__Pete Walker__](https://www.pete-walker.com/), [*__Complex PTSD: From Surviving to Thriving__*](https://www.amazon.com/Complex-PTSD-Surviving-RECOVERING-CHILDHOOD/dp/1492871842/) buscando libros para entender y sanar. Después de por fin haber terminado de medio organizar mi espacio, sentí que era el momento para la recuperación.
 
-Cuando averigüé más sobre él en Youtube, me apareció una entrevista en la que mencionó un trip psicodélico que lo transformó, le hizo ver que estaba lleno de bondad y cosas bellas por las que valía la pena vivir: una de las experiencias más poderosas de su vida.
+Empecé a averiguar más sobre él y encontré [__una entrevista en Youtube__](https://youtu.be/hFx2NEFeQew?si=2XoTHjbnWLUiPS6F) en la que mencionó un trip psicodélico que lo transformó, le hizo ver que estaba lleno de bondad y cosas bellas por las que valía la pena vivir. Contaba que había sido una de las experiencias más poderosas de su vida.
 
-Escuchándolo sentí ese corrientazo infantil de fascinación ante el descubrimiento: estaba buscando donde era —los psicodélicos en la recuperación emocional me llaman mucho la atención hace rato. El resto de la entrevista fue también una confirmación de la sed que tenía por entender por qué me costaba tanto estar tranquilo, hacer las cosas que me gustan, y disfrutar la vida.
+Escuchándolo sentí ese corrientazo casi infantil por la fascinación ante el descubrimiento: estaba buscando donde era —[__los psicodélicos en la recuperación emocional__](https://www.healthline.com/health/mental-health/psychedelic-therapy#uses) me interesan hace ya mucho tiempo. El resto de la entrevista fue también una confirmación de la sed que tenía por entender por qué me costaba tanto estar tranquilo, hacer las cosas que me gustan, y disfrutar la vida.
 
-Lo primero que me llamó la atención al leerlo fue la sorprendente precisión para describir lo que yo he estado sintiendo toda mi vida, en algunos casos sin saberlo. En particular, la descripción de la culpa tóxica, algo que se adquiere durante la infancia, y que no se va nunca. Una marca para toda la vida, porque como bien dice Louis Gluck, en su poema Nostos: “*vemos el mundo una vez, en la infancia. El resto es memoria”*.
+Lo primero que me llamó la atención al leerlo fue la sorprendente precisión para describir lo que yo he estado sintiendo toda mi vida, en algunos casos sin saberlo. En particular, la descripción de la culpa tóxica, algo que se adquiere durante la infancia, y que no se va nunca. Una marca para toda la vida, que describe bien [__Louis Glück__](https://es.wikipedia.org/wiki/Louise_Gl%C3%BCck), en [su poema __Nostos__](https://laurarguezdiaz.medium.com/nostos-louise-gl%C3%BCck-1996-bdcbed1556c5): “_Vemos el mundo una vez, en la infancia. El resto es memoria”_.
 
-Todos somos huérfanos, en Colombia y Latinoamérica. No sabemos quiénes somos, de dónde venimos, cómo querernos y cómo cuidarnos. Tal vez solo la oligarquía ha sabido, y así se han perpetuado. Pero nuestros ancestros estuvieron demasiado ocupados sobreviviendo, como para pensar y hacer comunidad entorno al amor. Nuestra mayor tradición es la violencia y el descuido. Esa es la mayor experiencia en la pobreza.
+Me parece que todos somos huérfanos, en Colombia y Latinoamérica. No sabemos quiénes somos, de dónde venimos, cómo querernos y cómo cuidarnos. Tal vez solo la oligarquía ha sabido, y así se han perpetuado. Pero nuestros ancestros estuvieron demasiado ocupados sobreviviendo, como para pensar y entender su comunidad entorno al amor. Nuestra mayor tradición es la violencia y el descuido. Es una experiencia intensa sobre todo en la pobreza.
 
-Ese libro me hizo ver lo que significa eso en un niño. Y empezó a cambiar la relación conmigo. Ya por fin “viviendo solo” pude darme la oportunidad de descansar. Por varios fines de semana me permití no hacer absolutamente nada. *El Corazón de Las Enseñanzas de Buda*, de Thich Nhat Hanh, me enseñó que eso se podía: me acostaba en la cama recién tendida con las manos entrelazadas bajo la nuca a disfrutar de los cerros en mi ventana. Y no hacía nada. Simplemente me acostaba a sentir y descansar.
+Ese libro me hizo ver lo que significa eso en un niño. Y empezó a cambiar la relación conmigo. Ya por fin “viviendo solo” pude darme la oportunidad de descansar. Por varios fines de semana me permití no hacer absolutamente nada. [__*El Corazón de Las Enseñanzas de Buda*__](https://www.healthline.com/health/mental-health/psychedelic-therapy#uses), de [__Thich Nhat Hanh__](https://plumvillage.org/es/thich-nhat-hanh/la-vida-de-thich-nhat-hanh), me enseñó que eso se podía: me acostaba en la cama recién tendida con las manos entrelazadas bajo la nuca a disfrutar de los cerros en mi ventana. Y no hacía nada. Simplemente me acostaba a sentir y descansar.
 
 Meses antes, tan solo una semana después de llegar a ese apartamento (Nathaly, mi plata, socia), sentí el cambio en mi respiración: ahora era muchísimo más lenta. Pero solo en el momento de mirar al techo y los cerros, únicamente existiendo y explorando la quietud del presente, me permití realmente descansar. Había olvidado hacerlo hacía mucho tiempo.
 

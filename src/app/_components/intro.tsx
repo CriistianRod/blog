@@ -6,9 +6,9 @@ export function Intro() {
       <h1 className="text-5xl md:text-8xl font-bold tracking-tighter leading-tight md:pr-8 dark:text-white">
         Cristian Rodríguez
       </h1>
-      <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
+      {/* <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
         Me gusta jugar a escribir, programar y explorar
-      </h4>
+      </h4> */}
       {/* <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
         A statically generated blog example using{" "}
         <a
