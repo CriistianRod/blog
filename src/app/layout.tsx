@@ -48,7 +48,8 @@ export default function RootLayout({
           href="/favicon/safari-pinned-tab.svg"
           color="#000000"
         />
-        <link rel="shortcut icon" href="/favicon/favicon.ico" />
+        {/* <link rel="shortcut icon" href="/favicon/favicon.ico" /> */}
+        <link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f977.svg" />
         <meta name="msapplication-TileColor" content="#000000" />
         <meta
           name="msapplication-config"
