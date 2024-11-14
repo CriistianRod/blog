@@ -1,6 +1,6 @@
 ---
 title: "Tres libros sobre recuperación emocional"
-excerpt: "El Corazón de Las Enseñanzas de Buda, de Thich Nhat Hanh, me enseñó que eso se podía: me acostaba en la cama recién tendida con las manos entrelazadas bajo la nuca a disfrutar de los cerros en mi ventana. Y no hacía nada. Simplemente me acostaba a sentir y descansar. "
+excerpt: "Pero solo en el momento de mirar al techo y los cerros, únicamente existiendo y explorando la quietud del presente, me permití realmente descansar. Había olvidado hacerlo hacía mucho tiempo."
 coverImage: "/assets/blog/hello-world/cover.jpg"
 date: "2024-10-25T05:35:07.322Z"
 author:
@@ -22,7 +22,7 @@ Todos somos huérfanos, en Colombia y Latinoamérica. No sabemos quiénes somos,
 
 Ese libro me hizo ver lo que significa eso en un niño. Y empezó a cambiar la relación conmigo. Ya por fin “viviendo solo” pude darme la oportunidad de descansar. Por varios fines de semana me permití no hacer absolutamente nada. *El Corazón de Las Enseñanzas de Buda*, de Thich Nhat Hanh, me enseñó que eso se podía: me acostaba en la cama recién tendida con las manos entrelazadas bajo la nuca a disfrutar de los cerros en mi ventana. Y no hacía nada. Simplemente me acostaba a sentir y descansar.
 
-Meses antes, tan solo una semana después de llegar a ese apartamento (Nathaly, mi plata, socia), sentí el cambio en mi respiración: ahora era muchísimo más lenta. Pero solo en el momento de mirar al techo y los cerros, existiendo solamente y explorando la quietud del presente, me permití realmente descansar. Había olvidado hacerlo hacía mucho tiempo.
+Meses antes, tan solo una semana después de llegar a ese apartamento (Nathaly, mi plata, socia), sentí el cambio en mi respiración: ahora era muchísimo más lenta. Pero solo en el momento de mirar al techo y los cerros, únicamente existiendo y explorando la quietud del presente, me permití realmente descansar. Había olvidado hacerlo hacía mucho tiempo.
 
 En ese libro, Thich Nhat Hanh habla sobre la naturaleza, la vida, el presente, la perfecta ocurrencia, la interconexión con todo el Universo y un montón de cosas hermosas más. Habla también de cómo no necesitamos hacer absolutamente nada más para ser merecedores de ser amados y valorados. “La ansiedad es la enfermedad de nuestro tiempo” dice él. Esta carrera en contra de nosotros mismos por sobresalir, sobrevivir y ser reconocidos es una enfermedad muy silenciosa y legitimada por el horrible lente y yugo del capitalismo (jaja). Ese libro fue una experiencia vital más intensa que el último trip de MDMA que había hecho. Así lo sentía. Ahí me enamoré de la escritura de Thich Nhat Hanh.
 

@@ -1,6 +1,6 @@
 ---
 title: "Carta"
-excerpt: "No necesito hablar de flores o pajaritos, porque todavía están esperando a que vuelvas para cantar y florecer. Las plantas te anhelan: la luz y el oxígeno de tus ojos las inundan, las reverdece e ilumina. Y a mí también."
+excerpt: "No necesito hablar de flores o pajaritos, porque todavía están esperando a que vuelvas para cantar y florecer."
 coverImage: "/assets/blog/hello-world/cover.jpg"
 date: "2023-04-05T05:35:07.322Z"
 author:
