@@ -4,6 +4,8 @@ import { Intro } from "@/app/_components/intro";
 import { MoreStories } from "@/app/_components/more-stories";
 import { getAllPosts } from "@/lib/api";
 import { Hero } from "@/app/_components/hero";
+import Header from "@/app/_components/header";
+import Head from 'next/head';
 
 export default function Index() {
   const allPosts = getAllPosts();
@@ -15,7 +17,8 @@ export default function Index() {
   return (
     <main>
       <Container>
-        <Intro />
+        <Header />
+        {/* <Intro /> */}
         <Hero />
         {/* <HeroPost
           title={heroPost.title}

@@ -10,7 +10,7 @@ ogImage:
   url: "/assets/blog/hello-world/cover.jpg"
 ---
 
-El año pasado, dos o tres meses después de haberme mudado, encontré el libro de [__Pete Walker__](https://www.pete-walker.com/), [*__Complex PTSD: From Surviving to Thriving__*](https://www.amazon.com/Complex-PTSD-Surviving-RECOVERING-CHILDHOOD/dp/1492871842/) buscando libros para entender y sanar. Después de por fin haber terminado de medio organizar mi espacio, sentí que era el momento para la recuperación.
+El año pasado, dos o tres meses después de haberme mudado, encontré el libro de [__Pete Walker__](https://www.pete-walker.com/), [*__Complex PTSD: From Surviving to Thriving__*](https://www.amazon.com/Complex-PTSD-Surviving-RECOVERING-CHILDHOOD/dp/1492871842/) buscando libros para entender y sanar. Después de, por fin, haber terminado de organizar mi espacio, sentí que era momento de continuar la recuperación.
 
 Empecé a averiguar más sobre él y encontré [__una entrevista en Youtube__](https://youtu.be/hFx2NEFeQew?si=2XoTHjbnWLUiPS6F) en la que mencionó un trip psicodélico que lo transformó, le hizo ver que estaba lleno de bondad y cosas bellas por las que valía la pena vivir. Contaba que había sido una de las experiencias más poderosas de su vida.
 
@@ -18,7 +18,7 @@ Escuchándolo sentí ese corrientazo casi infantil por la fascinación ante el d
 
 Lo primero que me llamó la atención al leerlo fue la sorprendente precisión para describir lo que yo he estado sintiendo toda mi vida, en algunos casos sin saberlo. En particular, la descripción de la culpa tóxica, algo que se adquiere durante la infancia, y que no se va nunca. Una marca para toda la vida, que describe bien [__Louis Glück__](https://es.wikipedia.org/wiki/Louise_Gl%C3%BCck), en [su poema __Nostos__](https://laurarguezdiaz.medium.com/nostos-louise-gl%C3%BCck-1996-bdcbed1556c5): “_Vemos el mundo una vez, en la infancia. El resto es memoria”_.
 
-Me parece que todos somos huérfanos, en Colombia y Latinoamérica. No sabemos quiénes somos, de dónde venimos, cómo querernos y cómo cuidarnos. Tal vez solo la oligarquía ha sabido, y así se han perpetuado. Pero nuestros ancestros estuvieron demasiado ocupados sobreviviendo, como para pensar y entender su comunidad entorno al amor. Nuestra mayor tradición es la violencia y el descuido. Es una experiencia intensa sobre todo en la pobreza.
+Me parece que todos somos huérfanos, en Colombia y Latinoamérica. No sabemos quiénes somos, de dónde venimos, y por ende tampoco sabemos cómo querernos, cómo cuidarnos. Tal vez solo la oligarquía ha sabido, y así se han perpetuado. Pero nuestros ancestros estuvieron demasiado ocupados sobreviviendo, como para pensar y entender su comunidad entorno al amor. Nuestra mayor tradición es la violencia y el descuido. Es una experiencia intensa sobre todo en la pobreza.
 
 Ese libro me hizo ver lo que significa eso en un niño. Y empezó a cambiar la relación conmigo. Ya por fin “viviendo solo” pude darme la oportunidad de descansar. Por varios fines de semana me permití no hacer absolutamente nada. [__*El Corazón de Las Enseñanzas de Buda*__](https://www.healthline.com/health/mental-health/psychedelic-therapy#uses), de [__Thich Nhat Hanh__](https://plumvillage.org/es/thich-nhat-hanh/la-vida-de-thich-nhat-hanh), me enseñó que eso se podía: me acostaba en la cama recién tendida con las manos entrelazadas bajo la nuca a disfrutar de los cerros en mi ventana. Y no hacía nada. Simplemente me acostaba a sentir y descansar.
 
