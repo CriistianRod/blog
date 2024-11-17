@@ -2,7 +2,7 @@ import SocialMedia from "./social-media"
 
 export function Hero() {
     return (
-        <section className="mt-12 md:mt-12 mb-16 md:mb-14 flex flex-col justify-center items-center text-center bg-gradient-radial from-slate-800 from-10% to-slate-900 to-50%">
+        <section className="min-h-[70vh] md:min-h-[70vh] mb-[16vh] md:mb-[16vh] flex flex-col justify-center items-center text-center bg-gradient-radial from-slate-800 from-10% to-slate-900 to-50%">
         <h1 className="text-5xl md:text-8xl mb-12 md:mb-1 font-bold tracking-tighter leading-tight md:pr-8 dark:text-white">
           Cristian Rodríguez
         </h1>
