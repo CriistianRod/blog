@@ -1,7 +1,7 @@
 ---
 title: "Tres libros sobre recuperación"
 excerpt: "Pero solo en el momento de mirar al techo y los cerros, únicamente existiendo y explorando la quietud del presente, me permití realmente descansar. Había olvidado hacerlo hacía mucho tiempo."
-coverImage: "/assets/blog/hello-world/cover.jpg"
+coverImage: "/assets/blog/tres-libros-recuperacion/cover.jpg"
 date: "2024-10-25T05:35:07.322Z"
 author:
   name: Cristian Rodríuez
