@@ -1,7 +1,7 @@
 ---
 title: "Carta"
 excerpt: "No necesito hablar de flores o pajaritos, porque todavía están esperando a que vuelvas para cantar y florecer."
-coverImage: "/assets/blog/hello-world/cover.jpg"
+coverImage: "/assets/blog/carta/cover.jpg"
 date: "2023-04-05T05:35:07.322Z"
 author:
   name: Cristian Rodríguez

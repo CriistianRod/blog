@@ -8,7 +8,7 @@ const Header = () => {
           CR
         </h2>
         <h2 className="text-2xl md:text-4xl font-bold tracking-tight md:tracking-tighter leading-tight text-sky-400 ml-1">
-          ○
+          &#8709;
         </h2>
       </Link>
     </header>
